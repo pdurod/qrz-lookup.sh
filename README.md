@@ -22,7 +22,7 @@
 
 ## 🚀 Installation
 
-- git clone https://github.com/yourusername/qrz-lookup.git
+- git clone https://github.com/pdurod/qrz-lookup.git
 - cd qrz-lookup
 - chmod +x qrz_lookup.sh
 
